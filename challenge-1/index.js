@@ -9,8 +9,10 @@ function studentGrade(marks){
         return 'C'
     }else if(marks<80){
         return 'B'
-    }else{
+    }else if(marks<=100){
         return 'A'
+    }else{
+        return 'Input valid Marks!'
     }
 }
 //declaring functions
