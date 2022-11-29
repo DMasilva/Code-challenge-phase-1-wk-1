@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color  : white;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 25px;
+    background-color: rgb(65, 61, 61);
+    width : 600px;
+    margin-top: 60px;
+    height: 80vh;
+    border-radius: 10%;
+}
+
+a{
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+
+p{
+    text-decoration: underline;
+    font-size: 30px;
+}
+h1{
+    color: greenyellow;
+}
+.change{
+    color : rgb(124, 201, 124);
+}

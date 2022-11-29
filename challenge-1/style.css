@@ -1,0 +1,76 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+.input{
+    display: block;
+    color: rgb(214, 210, 210);
+    font-size: 40px;
+}
+button{
+    color: rgb(133, 130, 130);
+    width:50%;
+    height: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(212, 242, 250);
+    border-radius: 5%;
+    border-style: double;
+}
+label{
+    display: block;
+    margin: 2rem 0;
+}
+.inline{
+    display: block;
+   float: center;
+    margin :auto 
+}
+.middle{
+    text-align: center;
+    background-color : rgb(78, 75, 75);
+    margin-top: 30px;
+    height : 70vh;
+   width: 600px;
+   margin-left: auto;
+   margin-right: auto;
+   border-radius: 7%;
+}
+
+
+h1{
+    color: rgb(122, 236, 88);
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 10px;
+    text-decoration: underline;
+    padding-top: 20px;
+}
+
+input{
+    margin: 10px 0 0 0;
+   width:50%;
+   min-height: 2em;
+   background-color: white;
+   border: 3px solid rgb(82, 82, 83);
+   color: black;
+   text-align: center;
+   font-weight: bold;
+   font-size: 20px;
+}
+
+.move{
+    padding-top: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
+
+.home{
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+}
